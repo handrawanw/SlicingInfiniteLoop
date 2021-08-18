@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.eaa0ff91.chunk.css",
+    "main.js": "/test/static/js/main.52390536.chunk.js",
+    "main.js.map": "/test/static/js/main.52390536.chunk.js.map",
+    "runtime-main.js": "/test/static/js/runtime-main.304aecf7.js",
+    "runtime-main.js.map": "/test/static/js/runtime-main.304aecf7.js.map",
+    "static/js/2.6aa659cb.chunk.js": "/test/static/js/2.6aa659cb.chunk.js",
+    "static/js/2.6aa659cb.chunk.js.map": "/test/static/js/2.6aa659cb.chunk.js.map",
+    "static/js/3.ce4d7176.chunk.js": "/test/static/js/3.ce4d7176.chunk.js",
+    "static/js/3.ce4d7176.chunk.js.map": "/test/static/js/3.ce4d7176.chunk.js.map",
+    "index.html": "/test/index.html",
+    "static/css/main.eaa0ff91.chunk.css.map": "/test/static/css/main.eaa0ff91.chunk.css.map",
+    "static/js/2.6aa659cb.chunk.js.LICENSE.txt": "/test/static/js/2.6aa659cb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/test/static/media/infinite-loop-03.f7b261d7.jpg",
+    "static/media/gallery-tn-01.32cac9b5.jpg": "/test/static/media/gallery-tn-01.32cac9b5.jpg",
+    "static/media/gallery-tn-02.1dd2037b.jpg": "/test/static/media/gallery-tn-02.1dd2037b.jpg",
+    "static/media/gallery-tn-03.9b739fc4.jpg": "/test/static/media/gallery-tn-03.9b739fc4.jpg",
+    "static/media/gallery-tn-04.c3874846.jpg": "/test/static/media/gallery-tn-04.c3874846.jpg",
+    "static/media/gallery-tn-05.51dcf6d3.jpg": "/test/static/media/gallery-tn-05.51dcf6d3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.304aecf7.js",
+    "static/js/2.6aa659cb.chunk.js",
+    "static/css/main.eaa0ff91.chunk.css",
+    "static/js/main.52390536.chunk.js"
+  ]
+}
